@@ -261,22 +261,22 @@ header nav .menu:hover .mega-menu{
     transform: translate(-50%,-50%);
 }
 #home .img .circle1{
-    top: -60px;
+    top: -15px;
     left: -60px;
 }
 
 #home .img .circle2{
-    top: -60px;
+    top: -15px;
     right:-60px;
 }
 
 #home .img .circle3{
-    bottom: 160px;
+    bottom: 200px;
     left: -60px;
 }
 
 #home .img .circle4{
-    bottom: 160px;
+    bottom: 200px;
     right: -60px;
 }
 #home .img .circle1::after,#home .img .circle4::after{
