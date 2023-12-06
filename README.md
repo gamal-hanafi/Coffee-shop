@@ -10,4 +10,4 @@ Coffee-shop is Page that You can buy some coffee ,Animation , The Page is built 
 
 ## Credits
 
-This project was created by [Alaa Abdallah](https://github.com/alaa-abdallah1)
+This project was created by [Gamal Khattab](https://github.com/gamal-hanafi)
